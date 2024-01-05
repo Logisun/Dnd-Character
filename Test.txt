@@ -1,1 +1,1 @@
-print("Hello, world!")
+print("eto versia 2.0")
